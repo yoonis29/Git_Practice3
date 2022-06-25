@@ -1,5 +1,7 @@
 package flip_grid;
 
+import java.sql.SQLOutput;
+
 public class Flip1 {
     public static void main(String[] args) {
         System.out.println("Hello World");
@@ -13,6 +15,7 @@ public class Flip1 {
         System.out.println("hello from esraa");
         System.out.println("New comment from Aya");
         System.out.println("From Naila");
+        System.out.println("New comment was added");
 
 
         
