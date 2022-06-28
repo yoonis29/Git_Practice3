@@ -18,6 +18,9 @@ public class Flip1 {
         System.out.println("New comment was added");
 
         System.out.println("New comment by Aya");
+
+        System.out.println("MERGE CONFLICT");
+        
         System.out.println("Hello");
 
 
