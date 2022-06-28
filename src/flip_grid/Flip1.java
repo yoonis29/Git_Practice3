@@ -26,6 +26,10 @@ public class Flip1 {
 
         System.out.println("Slava Ukraini from Hanna");
 
+        System.out.println( "glory to Ukranian heroes!!!!!");
+        System.out.println("good evening dear team");
+
+
         System.out.println("New Boolean project created ! ");
 
 
