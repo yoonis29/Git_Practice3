@@ -19,6 +19,8 @@ public class Flip1 {
 
         System.out.println("New comment by Aya");
 
+        System.out.println("New Boolean project created ! ");
+
 
         
 
