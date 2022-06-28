@@ -23,6 +23,8 @@ public class Flip1 {
 
         System.out.println("Slava Ukraini from Hanna");
 
+        System.out.println("New Boolean project created ! ");
+
 
         
 
