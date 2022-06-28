@@ -18,6 +18,8 @@ public class Flip1 {
         System.out.println("New comment was added");
 
         System.out.println("New comment by Aya");
+        System.out.println("Hello");
+
 
         System.out.println("Slava Ukraini from Hanna");
 
