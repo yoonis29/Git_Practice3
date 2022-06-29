@@ -32,6 +32,8 @@ public class Flip1 {
 
         System.out.println("New Boolean project created ! ");
 
+        System.out.println("The only true wisdom is in knowing you know nothing Socrates");
+
 
         
 
